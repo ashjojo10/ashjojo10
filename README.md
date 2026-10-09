@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ashwin Jojo 👋
 
-<!--
-**ashjojo10/ashjojo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Salesperson who happens to speak tech.**
 
-Here are some ideas to get you started:
+$1.82M in personal sales at Canna Cabana (POS-verified) — earned turning walk-in traffic into repeat customers, and one-time buyers into paid annual members. I build pipelines, not just close deals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now taking that engine into SaaS sales (SDR/BDR). Sheridan Software Engineering diploma: Java, C, C#, .NET, SQL, web development.
+
+### Tech
+`Java` `C` `C#` `.NET` `SQL` `Web Development` `Linux` `HTML/CSS/JS`
+
+### What I'm building
+- **Tiffin menu demo** — concept site for a GTA tiffin service: live weekly menus, plan selection, contact flow. Built the whole thing; using it as a sales demo.
+
+### Find me
+- LinkedIn: https://www.linkedin.com/in/ashwinjojo
+
